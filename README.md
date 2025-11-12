@@ -28,3 +28,10 @@
 - **SpeechRecognition**
 - **Pillow**
 - **Requests**
+  
+---
+
+📘 **Note:**  
+The complete source code and project files are currently not public as this project is part of my **Major Project submission** under university guidelines.  
+The repository currently serves as a **preview and documentation** of the project’s features and tech stack.  
+(Full source code will be uploaded here once the evaluation phase is completed.)
