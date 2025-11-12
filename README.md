@@ -28,7 +28,15 @@
 - **SpeechRecognition**
 - **Pillow**
 - **Requests**
-  
+
+---
+
+## 📸 Screenshots
+
+![Sky-Scout Screenshot 1](Screenshots/ss1.png)
+![Sky-Scout Screenshot 2](Screenshots/ss2.png)
+![Sky-Scout Screenshot 3](Screenshots/ss3.png)
+
 ---
 
 📘 **Note:**  
